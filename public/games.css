@@ -1,0 +1,8 @@
+.game-button {
+	color: blue;
+	cursor: pointer;
+}
+
+.game-button:hover {
+	font-weight: bold;
+}
